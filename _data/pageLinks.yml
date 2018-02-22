@@ -1,0 +1,7 @@
+- link: /
+  name: Home
+- link: link1
+  name: Link 1
+- link: link2
+  name: Link 2
+- link: link1/link3
